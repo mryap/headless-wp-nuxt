@@ -3,11 +3,12 @@
     <ul>
       <li>
         <nuxt-link exact to="/">
-          <app-icon></app-icon>BlogName
+          <app-icon></app-icon>WP on JamStack
         </nuxt-link>
       </li>
       <li>
         <nuxt-link to="/about">About</nuxt-link>
+        <nuxt-link to="/about">FAQ</nuxt-link>
       </li>
     </ul>
   </div>
