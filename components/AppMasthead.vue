@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      tagline: "Headless WordPress on the JAMstack"
+      tagline: "Headless WordPress on JAMstack"
     };
   }
 };
